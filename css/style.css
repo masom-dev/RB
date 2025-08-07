@@ -1915,19 +1915,19 @@ iframe {
     background-color:#FF432E;
 }
 .colors-switcher .colors-list a.blue{
-    background-color:#28ABE3;
+    background-color:#FF432E;
 }
 .colors-switcher .colors-list a.light-blue {
-    background-color:#69D2E7;
+    background-color:#FF432E;
 }
 .colors-switcher .colors-list a.green {
-    background-color:#5BB12F;
+    background-color:#FF432E;
 }
 .colors-switcher .colors-list a.light-green {
-    background-color:#BCCF02;
+    background-color:#FF432E;
 }
 .colors-switcher .colors-list a.yellow {
-    background-color:#FED136;
+    background-color:#FF432E;
 }
 
 
@@ -2000,5 +2000,6 @@ iframe {
         -webkit-transform: scale(1.0);
       }
 }
+
 
 
